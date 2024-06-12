@@ -1,0 +1,7 @@
+docker-compose.yml
+.idea
+__pycashe__
+log
+Dockerfile
+env.py
+venv
