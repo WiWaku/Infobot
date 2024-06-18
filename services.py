@@ -401,7 +401,6 @@ async def feedback_update_answer_unpaid(data):
 
 
 class GoogleSheet:
-    # SPREADSHEET_ID = '1zeM1LaOCQlUcQrcHROkxjdHp96Rbh-7GZ5uV6QRnWhE'
     FINANCE_SPREADSHEET_ID = ''
     NOTION_SPREADSHEET_ID = ''
     GRADUATES_SPREADSHEET_ID = ''
